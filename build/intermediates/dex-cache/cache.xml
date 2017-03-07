@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_bef2d17050655d95190f58b45b6d2ec259d1f161/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_0c971dd8041a001f5447c929712d20faa47b8d06/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_bf6dfb262cd991e6388b711ddf85391e881b788b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_1050b6818e8c1b3f3c3ae35fec1151d7e7868190/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_f7bb60aa9914eaef74090766d29183c06b918083/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e2b39218c9a52c764babbac2958789c38ec40864">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d59978bb0550abcccea7d30422de76b5ecf0a2a/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_c17f12271f30f3e27316f4859f0c0e8d99060ac3/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_4f4174d44cd4e8c430784233fc9a19b93e108d60/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_21c628b40896387c877ac112a8917750e7351adb/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_71c1426f8824133947b95cf05e68593c0fcbd4ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_26eb1c3172c9a80a7d870c58aac38e0c96119732/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_b0f10a96db8e18ecb20159a7da0e54bfaffb4730/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_7811373c6d9ad1bd35cff451b49c2cfd0a75b384/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_edb6da9c7c440b8509fc1a8561d8e373e3e1bed2/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_d13f4391179c58cf6ee7c75d448f466477572f5c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_05fbebc648c271f772ae7f664db287b1be488cd2/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_2e9cd97db9c33b52c3d9f37882744b67ceacfd27/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_fe7ddb7a3f818167d00807b77c66e1c7b6dc6fe8/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_0a081b586ec802cd960f2e60ac00700cece4739b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_4a0aec99cde3e1a3192f3885b075abefd1838e7c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_067203be61407f2c24152e6e64380740d2426277/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_47382ce8ad9cb781e37bf8d3bc213d79e31e75d6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_38677336f13c8c8fc104fe4d85a310400b961a34/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_aced58931cdb6b7b9b914f2cfc6fb254337f575c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_127174de5d82490c8c45fa1e270ba2c8e4222e86/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_2da160e0f88a1f1237ee8fdcc4f501243652d3a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_c23bc0d6c2e7a5e044fff210d6aca1b9b4bf0309/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_bd1a70c6b1219b6786927a5f3af107f3eea92f3b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_42ee8afaa646a467327050f4417ecd5bb9bf8b9c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_772169d81a24908efc8ccee51fc0f0c212393054/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_6e635ed0e7e4e130f050934ee6d3ba0a152ad9e6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_03689244e89fb38e1c16dfc642a7f4a9b322c2c1/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b389cb42f6b06aab018a0f376736cd382f218aa2/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_a51fe60e7d1219433189f933849508de0dfc534c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c82a8ec61b792b2293a9627c5b1d39791cb23730/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_648cb663f41ac3f0658545ececb847295faacf3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b125020a818c056147e84b9e8817678eca79a13">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_780455ed5bceeb2328621acb9b6cbcf392ac86f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_2df111519121b58c56c05284d3ab5702e44bacb6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_f47bdac30e2afaadc7ac7b83752310dc3e1c2d41/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_eb110dacae6fbe63cdc7d8cbc1c1991c58e695c8/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_ecfb1326d227289f46643620b8e596ff88defc7f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_db988ec955336ca97f400ba2ef94d0888407b3a3/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_f237654a4737da495549e9ef925fec03118006c9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_cd7313b7f31dded7588296d55516e77ca8fac77f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_d845c4273a3cf79c909e13ffaff59ec173b04a14/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_287fe2279f81c62c25f27dc822baf31e39cf820f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_d5568253e2bfd81879b3ecdd15fb48463f2b1330/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_b9a731aaf972bfa8fc815f33f3d1fe8342363a3b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.leo.simplearcloader/simplearcloader/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="95d5b560aff6648ae29567f8f88054b6c500d2fc">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.leo.simplearcloader-simplearcloader-1.0.1_ac9da02a36bac521f9f42e8f1b871ca7454afb5a/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_8a4fa255a3b014ecd90d81e29c285d73b35bddf6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_a68b043def638c2e764999b29ffef0079c9aa8a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2346b92aa9738416db978f4c61ec02ecef8b55c1/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_1506ef6f81c0f71d80bd4ef61760a0d9e8450580/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_de0ac839fb9a614fcb76388d75fae21e2d7dc89f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_1820da97291359eea6fd08ef88a12640e9f70d7d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_c3022e1ffb6fc06a3da65c2bc3b48e3039df371c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_97c915a97695bcd774548ac1d01ae7f330b23513/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_deb1237acf8dfb6dab8349ac72f49774754f3f08/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_7f9731e6c09a033be6ebd8ed9b09ba0ef97449f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b34b494421925a915e45f620769aa2dd0b4b99ed/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_cc8313bf51710a339d8b8491c3b221be5bcf213f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_b1cd4866dc16204ed0463be73a39e1ae719709a2/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_9b514793af8e915c5d29f6fe5e05bcec97b3b9ed/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_ecf96f4713f17a081ff10231a91f10c91fefe3f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_8c0e6be56cc3412ee004bae0e4733195cbd85746/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_19b18e0662899f7129d52778accde2f95ca9579f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_b02f31c73b4ab57b14211012ef3deaf98616914b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_e8fe61ca4c92a3e0721a8419d324c84421a66f0d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_145258e886d1d55b807ad989d7972ec182cbebbd/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_87e0f0a91dcff1ae8b5c5f6ad9b85ffaf6b0ac77/classes.dex" />
+    </item>
+    <item
+        jar="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/home/jatin/AndroidStudioProjects/FMFP4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_66af0b7b208a9032fc0fb4d872288b7dbcada747/classes.dex" />
+    </item>
+
+</items>
